@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "Oswald";
+    src:url('../fonts/Oswald-SemiBold.ttf');
+}
+
+.user-panel{
+	height: 60px;
+	color: red;
+}
+.user-panel>.info{
+	position: relative;
+	left: auto;
+}
+.skin-blue .sidebar-menu>li.header{
+	color: #fff;
+}
